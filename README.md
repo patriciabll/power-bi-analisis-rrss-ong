@@ -6,7 +6,7 @@ Todo el proceso se ha hecho con Power bi, icluyendo la limpieza y organización 
 Los datos se han extraído de las RRSS Facebook e Instagram de la Asociación Peludos, de enero de 2023 a julio de 2024.
 
 # Estructura del Repositorio
-- Data FB.xlsx: Datos extraídos Meta Business Suite
-- Data IG-Post.xlsx: Datos extraídos Meta Business Suite
-- Data IG-Stories.xlsx: Datos extraídos Meta Business Suite
-- Asociación Peludos: Dashboard de Power BI de donde se analizan los datos obtenidos
+- Data FB.xlsx:  Datos extraídos Meta Business Suite
+- Data IG-Post.xlsx:  Datos extraídos Meta Business Suite
+- Data IG-Stories.xlsx:  Datos extraídos Meta Business Suite
+- Asociación Peludos.pbix:  Dashboard de Power BI de donde se analizan los datos obtenidos
